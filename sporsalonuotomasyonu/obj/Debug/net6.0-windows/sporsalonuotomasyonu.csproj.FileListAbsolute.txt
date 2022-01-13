@@ -1,0 +1,8 @@
+C:\Users\ulasd\source\repos\sporsalonuotomasyonu\sporsalonuotomasyonu\obj\Debug\net6.0-windows\sporsalonuotomasyonu.csproj.AssemblyReference.cache
+C:\Users\ulasd\source\repos\sporsalonuotomasyonu\sporsalonuotomasyonu\obj\Debug\net6.0-windows\sporsalonuotomasyonu.AnaForm.resources
+C:\Users\ulasd\source\repos\sporsalonuotomasyonu\sporsalonuotomasyonu\obj\Debug\net6.0-windows\sporsalonuotomasyonu.csproj.GenerateResource.cache
+C:\Users\ulasd\source\repos\sporsalonuotomasyonu\sporsalonuotomasyonu\obj\Debug\net6.0-windows\sporsalonuotomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulasd\source\repos\sporsalonuotomasyonu\sporsalonuotomasyonu\obj\Debug\net6.0-windows\sporsalonuotomasyonu.AssemblyInfoInputs.cache
+C:\Users\ulasd\source\repos\sporsalonuotomasyonu\sporsalonuotomasyonu\obj\Debug\net6.0-windows\sporsalonuotomasyonu.AssemblyInfo.cs
+C:\Users\ulasd\source\repos\sporsalonuotomasyonu\sporsalonuotomasyonu\obj\Debug\net6.0-windows\sporsalonuotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ulasd\source\repos\sporsalonuotomasyonu\sporsalonuotomasyonu\obj\Debug\net6.0-windows\sporsalonuotomasyonu.Properties.Resources.resources
